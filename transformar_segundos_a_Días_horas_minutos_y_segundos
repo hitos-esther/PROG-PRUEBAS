@@ -1,0 +1,17 @@
+/* realizar un bucle que salga 10 veces por pantalla hola.
+ * 
+ * 
+ * 
+ * 
+ * 
+ * 
+*/
+
+public static void bucleBasico() {
+    String a='hola';
+
+    for(i;a=i;i<=10){
+        System.out.println(a)
+    }
+    
+}
